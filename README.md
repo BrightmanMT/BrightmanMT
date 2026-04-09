@@ -1,49 +1,61 @@
-# Hi there 👋 I'm Brightman
+## 👋 Hi, I'm Brightman Mutumwapavi  
 
-I'm an enthusiastic **Data Scientist in training**, passionate about transforming data into meaningful insights and solutions. I enjoy building **machine learning models**, designing **interactive dashboards**, and bridging the gap between raw data and real-world impact.
+**AI/ML Engineer | Healthcare AI | Computer Vision**
 
----
+I build **end-to-end AI systems** that solve real-world problems, with a strong focus on **healthcare, medical imaging, and decision support systems**.
 
-### 🧠 Skills
-- **Languages:** Python, SQL, HTML/CSS/JS  
-- **Libraries/Tools:** Pandas, Scikit-learn, Matplotlib, Seaborn, Power BI, Tableau  
-- **ML Concepts:** Supervised & Unsupervised Learning, Model Optimization, Exploratory Data Analysis (EDA)  
-- **Other Tools:** Firebase, REST APIs, Git & GitHub
+My work goes beyond experimentation — I design **interpretable, deployable AI solutions** that can be used in real environments, especially in **resource-constrained settings**.
 
 ---
 
-### 📂 Portfolio Projects
-- Customer Lifetime Value Prediction  
-- Fraud Detection System  
-- Product Recommendation Engine  
-- Exploratory Data Analysis Challenges  
+## 🔬 What I Focus On
 
-Check out my pinned repositories below 👇 for more details!
-
----
-
-### 🌍 About Me
-- 🏫 Data Science student at Adikavi Nannaya University  
-- 🌍 Based in Zimbabwe, passionate about leveraging technology for Africa's growth  
-- 🎯 Dedicated to building a portfolio that showcases my skills and potential
+- 🏥 **Healthcare AI** — maternal health, clinical decision support  
+- 🖼️ **Medical Imaging** — deep learning for diagnostic assistance  
+- 🤖 **Machine Learning Systems** — from data pipelines to deployment  
+- 📊 **Applied AI** — solving real-world problems with data  
 
 ---
 
-📬 Contact me: mutumwapavibrightman@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/brightman-mutumwapavi-aa567b28a
-) | [Portfolio Website](#)## Hi there 👋
+## 🚀 Featured Projects
 
-<!--
-**BrightmanMT/BrightmanMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏥 AI Medical Imaging Assistant  
+Deep learning system for pneumonia detection from chest X-rays with **Grad-CAM explainability** and high-recall screening  
+🔗 https://brightmanmt-ai-medical-imaging-assistant-app-dk28lz.streamlit.app/
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤰 Maternal Health Hybrid AI Agent  
+Hybrid AI system combining **RAG (LangChain + FAISS)** with ML-based maternal risk prediction and WHO guideline retrieval  
+🔗 https://brightmanmt-maternal-health-hybrid-ai-agent-app-cls4kv.streamlit.app/
+
+---
+
+### 📈 Customer Lifetime Value System  
+End-to-end predictive analytics system using **BG/NBD, Gamma-Gamma, and churn modeling**  
+🔗 https://clv3.onrender.com/
+
+---
+
+## 🧠 Technical Stack
+
+- **Languages:** Python, SQL  
+- **ML & AI:** scikit-learn, PyTorch, TensorFlow, Computer Vision, NLP  
+- **Data:** Pandas, NumPy, Feature Engineering, Model Evaluation  
+- **Systems:** Streamlit, LangChain, FAISS, REST APIs  
+
+---
+
+## 🌍 About Me
+
+- 🎓 B.Sc. Data Science (Graduating May 2026)  
+- 🌍 Zimbabwean, passionate about **AI for healthcare in Africa**  
+- 🎯 Focused on building **impact-driven AI systems**, not just models  
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 mutumwapavibrightman@gmail.com  
+- 🔗 https://www.linkedin.com/in/brightman-mutumwapavi-aa567b28a  
+- 💻 https://github.com/BrightmanMT  
