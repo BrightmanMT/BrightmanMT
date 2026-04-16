@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Brightman Mutumwapavi  
 
-**AI/ML Engineer | Healthcare AI | Computer Vision**
+**AI/ML Engineer | Data Scientist | Deep Learning**
 
-I build **end-to-end AI systems** that solve real-world problems, with a strong focus on **healthcare, medical imaging, and decision support systems**.
+I build **end-to-end AI systems** that solve real-world problems.
 
 My work goes beyond experimentation — I design **interpretable, deployable AI solutions** that can be used in real environments, especially in **resource-constrained settings**.
 
