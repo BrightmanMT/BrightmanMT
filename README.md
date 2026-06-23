@@ -8,20 +8,20 @@ My work spans **predictive analytics, computer vision, business intelligence, cu
 
 ---
 
-## 🚀 What I Build
+##  What I Build
 
-- 🤖 **AI & Machine Learning Systems** — from model development to production deployment
-- 📊 **Predictive Analytics & Data Science** — forecasting, customer intelligence, and decision support
-- 🖼️ **Computer Vision Solutions** — image analysis, anomaly detection, and explainable AI
-- 🧠 **Generative AI & Intelligent Agents** — RAG systems, AI assistants, and knowledge-driven applications
-- 📈 **Business Intelligence & Analytics** — KPI dashboards, executive reporting, and performance analytics
-- ⚙️ **Data Products & Automation** — transforming raw data into scalable business solutions
+- **AI & Machine Learning Systems** — from model development to production deployment
+- **Predictive Analytics & Data Science** — forecasting, customer intelligence, and decision support
+- **Computer Vision Solutions** — image analysis, anomaly detection, and explainable AI
+- **Generative AI & Intelligent Agents** — RAG systems, AI assistants, and knowledge-driven applications
+- **Business Intelligence & Analytics** — KPI dashboards, executive reporting, and performance analytics
+- **Data Products & Automation** — transforming raw data into scalable business solutions
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🤖 AI Medical Imaging Assistant
+###  AI Medical Imaging Assistant
 
 Production-ready computer vision system for medical image analysis featuring deep learning, Grad-CAM explainability, and decision-support capabilities.
 
@@ -29,7 +29,7 @@ Production-ready computer vision system for medical image analysis featuring dee
 
 ---
 
-### 🧠 Maternal Health Hybrid AI Agent
+###  Maternal Health Hybrid AI Agent
 
 Hybrid AI platform combining Retrieval-Augmented Generation (RAG), predictive modeling, and intelligent knowledge retrieval to support data-driven decision making.
 
@@ -53,7 +53,7 @@ Business Intelligence solution analyzing **21,350+ customer orders**, **49,500+ 
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### AI Data Analyst Intern | EXCELERATE (UAE)
 **Apr 2026 – May 2026**
@@ -126,9 +126,9 @@ Business Intelligence solution analyzing **21,350+ customer orders**, **49,500+ 
 ## 🌍 About Me
 
 - 🇿🇼 Zimbabwean Data Scientist and AI Engineer
-- 🎯 Passionate about solving real-world challenges using AI, machine learning, and analytics
-- 🚀 Interested in AI Engineering, Data Science, Machine Learning, Business Intelligence, and Intelligent Systems
-- 🌎 Open to global opportunities, collaborations, and innovative projects
+-  Passionate about solving real-world challenges using AI, machine learning, and analytics
+-  Interested in AI Engineering, Data Science, Machine Learning, Business Intelligence, and Intelligent Systems
+-  Open to global opportunities, collaborations, and innovative projects
 
 ---
 
